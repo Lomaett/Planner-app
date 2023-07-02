@@ -5,6 +5,8 @@
   justify-content: flex-start;
   align-items: center;
   background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: local;
 }
 
 .container {
